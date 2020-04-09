@@ -27,12 +27,12 @@ Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
 ## Screenshots
 
 Home page
-!["Home page"](https://github.com/maridoh13/)
+!["Home page"](https://github.com/maridoh13/Jungle/blob/master/public/homepage.png)
 
 Product description
-!["Product description"](https://github.com/maridoh13/)
+!["Product description"](https://github.com/maridoh13/Jungle/blob/master/public/productdesc.png)
 
 My Cart
-!["My Cart"]()
+!["My Cart"](https://github.com/maridoh13/Jungle/blob/master/public/mycart.png)
 
 by @maridoh13 - a @lighthouse-labs student
