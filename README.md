@@ -1,6 +1,6 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 4.2 for purposes of learning Rails by example.
 
 
 ## Setup
@@ -20,19 +20,19 @@ Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
 
 ## Dependencies
 
-* Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
+* Rails 4.2
 * PostgreSQL 9.x
 * Stripe
 
 ## Screenshots
 
-Home page
+### Home page
 !["Home page"](https://github.com/maridoh13/Jungle/blob/master/public/homepage.png)
 
-Product description
+### Product description
 !["Product description"](https://github.com/maridoh13/Jungle/blob/master/public/productdesc.png)
 
-My Cart
+### My Cart
 !["My Cart"](https://github.com/maridoh13/Jungle/blob/master/public/mycart.png)
 
 by @maridoh13 - a @lighthouse-labs student
