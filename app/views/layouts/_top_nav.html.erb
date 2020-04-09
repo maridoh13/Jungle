@@ -25,9 +25,6 @@
             <% end %>
           </ul>
         </li>
-        <li>
-          <%= link_to 'About', [:about, :index] %>
-        </li
       </ul>
       <ul class="nav navbar-nav navbar-right">
        <li class="dropdown">
@@ -48,12 +45,15 @@
           <% end %>
         </li>
         <% if current_user %>
-          <li>Signed in as <%= current_user.name %></li>
+          <li><a>Signed in as <%= current_user.name %></a></li>
           <li><%= link_to "Logout", '/logout' %></li>
         <% else %>
           <li><%= link_to 'Login', '/login' %></li> 
           <li><%= link_to 'Sign Up', '/signup' %></li>
         <% end %>
+        <li>
+        <%= link_to 'About', [:about, :index] %>
+      </li>
       </ul>
     </div>
   </div>
